@@ -1,0 +1,31 @@
+Version 165 32
+{
+	Shaders
+	{
+		emissive.sps
+		{
+			DiffuseSampler ax_store_vine\branco.otx
+			HardAlphaBlend 1.00000000
+			UseTessellation 0.00000000
+			EmissiveMultiplier 1.00000000
+		}
+	}
+	Skeleton null
+	LodGroup
+	{
+		Center 0.00000000 0.00000000 0.00000000
+		Radius 49.10420000
+		AABBMin -35.25851000 -0.65796500 -34.17059000
+		AABBMax 35.25851000 0.65796490 34.17059000
+		High 9998.00000000
+		{
+			ax_store_vine\ax_store_vine_high.mesh 0
+		}
+		Med 9998.00000000
+		Low 9998.00000000
+		Vlow 9998.00000000
+	}
+	Joints null
+	Light null
+	Bound ax_store_vine\ax_store_vine.bound
+}
